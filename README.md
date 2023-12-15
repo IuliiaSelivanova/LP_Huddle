@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![![Alt text](<Screenshot 2023-12-15 at 20-17-36 Frontend Mentor Huddle landing page with curved sections.png>)]
-![![Alt text](image-1.png)]
+![Alt text](<Screenshot 2023-12-15 at 20-17-36 Frontend Mentor Huddle landing page with curved sections.png>)
+![Alt text](image-1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/IuliiaSelivanova/LP_Huddle.git)
+- Live Site URL: (https://iuliiaselivanova.github.io/LP_Huddle/)
 
 ## My process
 
