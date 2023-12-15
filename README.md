@@ -24,8 +24,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+Desktop version of the site:
 ![Alt text](<Screenshot 2023-12-15 at 20-17-36 Frontend Mentor Huddle landing page with curved sections.png>)
+
+Mobile version of the site:
 ![Alt text](image-1.png)
 
 ### Links
