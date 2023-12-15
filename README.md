@@ -27,7 +27,7 @@ Users should be able to:
 Desktop version of the site:
 ![Alt text](<Screenshot 2023-12-15 at 20-17-36 Frontend Mentor Huddle landing page with curved sections.png>)
 
-Mobile version of the site:
+Mobile version of the site:  
 ![Alt text](image-1.png)
 
 ### Links
